@@ -1,4 +1,4 @@
-
+#### I just wrapped up this assignment. This was truly a challenging assignment. I made through some parts quite easily; however, I got stuck on the part where I needed to pull the latitude and longitude from the hotel_results json. Once I solved it, it made since, but getting there took me like 14 hours of trial and error. All in all, I enjoyed the assignment. 
 
 
 
